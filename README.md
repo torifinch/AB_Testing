@@ -2,7 +2,7 @@
 
 Welcome to a data-driven deep dive into a marketing experiment designed to answer one deceptively simple question:
 
-> **CWill this new marketing strategy drive more action — or just cost more?**
+> **Will this new marketing strategy drive more action — or just cost more?**
 
 ---
 
