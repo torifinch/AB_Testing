@@ -66,7 +66,7 @@ Columns available:
 
 - **Test Used**: Mann-Whitney U
 - **U = 362.0**, **p = 0.2717**
-- **Interpretation**: We fail to reject the null hypothesis. The observed **+16.8% lift in mean ROI** is encouraging, but **not statistically significant** in this sample.
+- **Interpretation**: We fail to reject the null hypothesis. The observed **+9.5% lift in mean ROI** is encouraging, but **not statistically significant** in this sample.
 
 📉 Possible reasons:
 - Sample size (59 total campaigns)
