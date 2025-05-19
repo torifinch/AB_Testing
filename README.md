@@ -80,16 +80,3 @@ Columns available:
 - Although **ROI saw a +16.8% increase**, the variance means we can’t yet say the improvement is definitive — but it's **a promising trend worth monitoring**.
 - With the Test Campaign already achieving **greater purchase volume and reach**, scaling it gradually with continued ROI tracking is advisable.
 
----
-
-## Folder Structure
-📁 AB_Testing /
-├── data/
-│ └── df_full_clean.csv
-├── notebooks/
-│ └── ABTesting.ipynb
-├── visuals/
-│ ├── roi_boxplot
-│ └── pr_boxplot
-└── README.md
-
