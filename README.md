@@ -79,6 +79,6 @@ Columns available:
 ## Insights & Recommendations
 
 - The **Test Campaign improved PR significantly**, suggesting it’s better at converting attention into action.
-- Although **ROI saw a +16.8% increase**, the variance means we can’t yet say the improvement is definitive — but it's **a promising trend worth monitoring**.
+- Although **ROI saw a +9.5% increase**, the variance means we can’t yet say the improvement is definitive — but it's **a promising trend worth monitoring**.
 - With the Test Campaign already achieving **greater purchase volume and reach**, scaling it gradually with continued ROI tracking is advisable.
 
