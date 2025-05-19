@@ -2,7 +2,7 @@
 
 Welcome to a data-driven deep dive into a marketing experiment designed to answer one deceptively simple question:
 
-> **Can we make our marketing campaigns work harder for us?**
+> **CWill this new marketing strategy drive more action — or just cost more?**
 
 ---
 
