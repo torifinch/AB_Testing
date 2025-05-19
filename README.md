@@ -12,7 +12,7 @@ This A/B testing project evaluates the performance of a new marketing campaign (
 
 With business budgets and buyer behavior on the line, we leaned into the numbers to find out if the new approach is worth the investment.
 
-➡️ See Colab [HERE](https://colab.research.google.com/drive/1GZ1eCE6W_9Wvd9TmOwp63pOEuiKeI1j-?usp=sharing)
+➡️ See the notebook [HERE](https://colab.research.google.com/drive/1GZ1eCE6W_9Wvd9TmOwp63pOEuiKeI1j-?usp=sharing)
 
 ---
 
